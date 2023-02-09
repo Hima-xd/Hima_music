@@ -1,4 +1,4 @@
-# Powered By BikashHalder Or Aditya Halder IF You Fresh Any Problem To Contact The BgtRobot Owner
+# Powered By BikashHalder Or Aditya Halder IF You Fresh Any Problem To Contact The ZaanRobot Owner
 
 import sys
 from pyrogram import Client
