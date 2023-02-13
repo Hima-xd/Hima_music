@@ -16,6 +16,7 @@
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)]( https://t.me/zoly_suportt )
 
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Hima-xd/Hima_music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 ## YouTube 📺
 
 [YouTube Channel]( https://youtube.com/@zaan_xD )
