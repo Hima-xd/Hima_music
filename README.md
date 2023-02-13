@@ -1,3 +1,5 @@
+<img src="https://telegra.ph//file/e9fd6359604087539d228.jpg"></p>
+
 ### ABOUT THIS BOT
 
 🥀 Best Smart Voice Chat Music Bot 📢 For All Telegram Groups or Channels ✅ This Bot Support Video play Or Audio Play Both ||
