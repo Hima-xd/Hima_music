@@ -1,4 +1,4 @@
-<img src="https://telegra.ph//file/e9fd6359604087539d228.jpg"></p>
+<img src="https://telegra.ph//file/62a42f8aeb8d6005a8796.jpg"></p>
 
 ### ABOUT THIS BOT
 
